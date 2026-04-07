@@ -8,8 +8,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Student Attendance System with Admin Panel**
-- 🌱 I’m currently learning **DSA, Backend Development & Cloudflare**
+- 🔭 I’m currently working on group project - **Student Attendance System with Admin Panel**
+- 🌱 I’m currently learning **DSA, Backend Development **
 - 👯 I’m looking to collaborate on **Web Dev & Open Source**
 - 💬 Ask me about **C, GitHub, Frontend & Basics of DSA**
 - ⚡ Fun fact: **I turn ideas into real projects 😎**
