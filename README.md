@@ -33,9 +33,6 @@
 
 ---
 
-### 🔥 Streak Stats
-
----
 
 ### 📫 Connect With Me
 <p>
