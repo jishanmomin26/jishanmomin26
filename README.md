@@ -50,7 +50,7 @@
 
 **Community & Leadership:**
 - Google Student Ambassador 2026
-- Programmers Club — Founding Member
+- Programmers Club — Technical Team Lead
 - INNOVEXA — Team Leader
 - ByteBattle Hackathon — Co-organizer
 
@@ -122,11 +122,13 @@ Part of the **Google Student Ambassador 2026** program, contributing to student 
 
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/Programmers%20Club-Founding%20Member-7DD3FC?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Programmers%20Club-Technical%20Team%20Lead-7DD3FC?style=for-the-badge&logo=github&logoColor=white"/>
 
 ### 👥 Programmers Club
 
-Involved in building and contributing to a student developer community focused on technology and programming.
+**Technical Team Lead**
+
+Leading technical initiatives, collaborating with developers, and contributing to the growth of the student developer community.
 
 </td>
 
