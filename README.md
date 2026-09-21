@@ -477,16 +477,28 @@ I believe that the best way to understand technology is to **build real projects
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jishanmomin2606/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/jishanmomin2606/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="60" />
 </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jishanmomin100@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:jishanmomin100@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="60" />
 </a>
 
-<a href="https://github.com/jishanmomin26" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-@jishanmomin26-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/jishanmomin26">
+<img src="https://skillicons.dev/icons?i=github" height="60" />
+</a>
+
+<a href="https://x.com/jishanmomin2606">
+<img src="https://skillicons.dev/icons?i=twitter" height="60" />
+</a>
+
+<a href="https://instagram.com/jishanmomin26/">
+<img src="https://skillicons.dev/icons?i=instagram" height="60" />
+</a>
+
+<a href="https://discord.com/jishanmomin26">
+<img src="https://skillicons.dev/icons?i=discord" height="60" />
 </a>
 
 </div>
