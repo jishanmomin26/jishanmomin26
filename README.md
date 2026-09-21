@@ -268,7 +268,7 @@ Building • Learning • Experimenting • Improving 🚀
 
 <td align="center">
 
-<img src="https://streak-stats.demolab.com/?user=jishanmomin26&theme=nord&hide_border=true" width="420"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jishanmomin26&theme=tokyonight&hide_border=true" width="420" />
 
 </td>
 
