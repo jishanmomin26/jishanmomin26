@@ -336,19 +336,15 @@ Building • Learning • Experimenting • Improving 🚀
 
 </div>
 
-**Cloudinary • Cloud Deployment**
-
 ---
 
 ## 🤖 Artificial Intelligence & Machine Learning
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sklearn" height="60"/>
+<img src="https://skillicons.dev/icons?i=python" height="60"/>
 
 </div>
-
-**Google Gemini • ChatGPT • Claude • NLP • TF-IDF • Machine Learning**
 
 ---
 
@@ -356,11 +352,9 @@ Building • Learning • Experimenting • Improving 🚀
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="60"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma," height="60"/>
 
 </div>
-
-**Canva • Google Colab**
 
 ---
 
